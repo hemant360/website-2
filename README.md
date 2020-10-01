@@ -14,15 +14,15 @@ See [Jekyll Installation documentation](https://jekyllrb.com/docs/installation/)
 
 ### Installing
 
-Navigate to the local directory where the repo was installed
+Now, Navigate to the local directory where the repo was installed.
 
 `cd website`
 
-Install dependencies
+Install dependencies.
 
 `bundle && npm install && bower install`
 
-Starting up
+Starting up.
 
 `gulp`
 
